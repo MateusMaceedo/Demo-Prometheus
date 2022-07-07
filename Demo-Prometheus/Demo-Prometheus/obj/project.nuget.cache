@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DA//NZ3HfqUurEFJ7J0Gd4Czxq2u6cA/M0uFIVbuLLYkP6PsAOlT7p5eMxFe64LLKMrcKLdW2U1shRgnAlw/Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\Demo-Prometheus\\Demo-Prometheus\\Demo-Prometheus\\Demo-Prometheus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
